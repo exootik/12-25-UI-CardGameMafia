@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gangster3AimController
+  m_Controller: {fileID: 9100000, guid: 0a2b339a12e396949bc48aa2661e87ba, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5b536c894c2cb0f4b845f25a36299c10, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 60b3c49764a16474aad908ffc7072cc9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ca8f83dba852a1740a64ced4e6b43632, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 666444b0949e17342a57cd9691be7144, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96b8f980f605f5242969a21960731c53, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff3607ee65712c74fb7b98d93a828bc8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c49ba4660aa4544a8dc0fe37189224c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4fd2eb76f6ac434985cb74f1e96cbc6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d0e8dab3e91f22d4b9f933798bfa917e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0bd508565aebac40ad5c01a2457adfd, type: 2}

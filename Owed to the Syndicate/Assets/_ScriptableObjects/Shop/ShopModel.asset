@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a429b390e2b1444cb82d313966b5054, type: 3}
+  m_Name: ShopModel
+  m_EditorClassIdentifier: 
+  availableCards:
+  - {fileID: 11400000, guid: c2855b5394e143c43b279fb86cd9f846, type: 2}
+  - {fileID: 11400000, guid: 2ebb5c7681c09ef49ad7717d596fe42c, type: 2}
+  - {fileID: 11400000, guid: 62cca8ca25b967248879deaed7355967, type: 2}
+  shopSlotCount: 3
